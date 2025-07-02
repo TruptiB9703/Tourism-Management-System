@@ -22,7 +22,7 @@ please chanage the port number with your port number - I used 3307 as port numbe
 please change username and password if that applicable to you
 
 create database called "travel", don't give any other name,
-if you want different name for database then make sure that you change database ame in code also
+if you want different name for database then make sure that you change database name in code also
 
 database file also provided
 
