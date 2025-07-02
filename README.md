@@ -7,3 +7,5 @@ Developed a tourism management system using PHP, MySQL, and XAMPP stack for hand
 
 ![Image](https://github.com/user-attachments/assets/dc1a2e57-4974-4e8b-b8ee-6be75fd3d38b)
 
+Note-This project uses the Master branch as the default branch.
+
